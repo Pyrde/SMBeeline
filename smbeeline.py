@@ -1,6 +1,6 @@
 ###Script usage: "python smbeeline.py [path to nmap scan in xml format] --[action]". Possible actions --list, --pillage.### 
 ###Currently supports SMB v1 and v2. tested on Samba shares and Windows 7 and 10. Enjoy responsibly.                    ###
-###Tested on Python 3.7.10. Most likely won't work on Python 3.8 ->. I might fix this is
+###Tested on Python 3.7.10. Most likely won't work on Python 3.8 ->. I might fix this is                                ###
 
 import argparse
 import time
