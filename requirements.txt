@@ -1,4 +1,2 @@
-Script uses the pysmb library and the libnmap library. you can install these with pip
-
-pip install pysmb
-pip install pyhton-libnmap
+pysmb
+libnmap
